@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/anmawex/simulacion-autocontrol/static/css/main.bb1d71c3.css",
-    "main.js": "/anmawex/simulacion-autocontrol/static/js/main.19bfe883.js",
-    "index.html": "/anmawex/simulacion-autocontrol/index.html",
-    "main.bb1d71c3.css.map": "/anmawex/simulacion-autocontrol/static/css/main.bb1d71c3.css.map",
-    "main.19bfe883.js.map": "/anmawex/simulacion-autocontrol/static/js/main.19bfe883.js.map"
+    "main.css": "/simulacion-autocontrol/static/css/main.bb1d71c3.css",
+    "main.js": "/simulacion-autocontrol/static/js/main.19bfe883.js",
+    "index.html": "/simulacion-autocontrol/index.html",
+    "main.bb1d71c3.css.map": "/simulacion-autocontrol/static/css/main.bb1d71c3.css.map",
+    "main.19bfe883.js.map": "/simulacion-autocontrol/static/js/main.19bfe883.js.map"
   },
   "entrypoints": [
     "static/css/main.bb1d71c3.css",
